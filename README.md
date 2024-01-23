@@ -1,6 +1,6 @@
 # moon3fire
 
-I'm a programmer and have experience in embedded systems, networking, game development and computer graphics fields.
+I'm a programmer and have experience in field such as embedded systems, networking, game development and computer graphics.
 
 
 ## Connect with Me
