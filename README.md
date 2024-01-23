@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @moon3fire
-- 👀 I’m interested in programming, games, cool projects
-- 🌱 I’m currently learning programming :)(GPU Processing)
-- 💞️ I’m looking to collaborate with any other people who have creative thoughts
-- 📫 How to reach me ... telegram @moon3fire
-- 
+# moon3fire
 
-<!---
-moon3fire/moon3fire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm programming and have experience in embedded systems, networking, game development and computer graphics fields.
+
+
+## 🤝 Connect with Me
+- LinkedIn: [@Arman Isajanyan]((https://www.linkedin.com/in/arman-isadzhanyan-498a29229))
+- Twitter: [@colourlessk1ng]((https://twitter.com/colourlessk1ng))
+
+## Stats
+[![](https://github-readme-stats.vercel.app/api?username=moon3fire)](https://github.com/moon3fire/github-readme-stats)
